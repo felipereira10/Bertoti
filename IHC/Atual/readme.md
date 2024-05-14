@@ -1,4 +1,4 @@
-1) isibilidade do status do sistema: Permitir que os usuários saibam o que está acontecendo por meio de feedback claro e visível.
+1) Visibilidade do status do sistema: Permitir que os usuários saibam o que está acontecendo por meio de feedback claro e visível.
 
 2) Correspondência entre o sistema e o mundo real: Mapear elementos do sistema para conceitos familiares do mundo real para facilitar o entendimento.
 
