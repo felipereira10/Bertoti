@@ -1,4 +1,5 @@
 1) Visibilidade do status do sistema: Permitir que os usuários saibam o que está acontecendo por meio de feedback claro e visível.
+![image](https://github.com/felipereira10/Bertoti/assets/126419915/8ff0b9f7-8bd5-45af-bd20-fcfa66b7f52d)
 
 2) Correspondência entre o sistema e o mundo real: Mapear elementos do sistema para conceitos familiares do mundo real para facilitar o entendimento.
 
